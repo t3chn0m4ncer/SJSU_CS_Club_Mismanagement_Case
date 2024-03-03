@@ -1,4 +1,5 @@
 # SJSU_CS_Club_Mismanagement_Case
+Joint investigation by Student Involvement and Student Conduct & Ethical Development. 
 SJSU CS Club officers involved in 2019/2020 mismanagement case:
 1. Areeb Yaqub - President
 2. Dylan Domingo - Secretary
